@@ -38,3 +38,7 @@ Value 2: showing probable or definite left ventricular hypertrophy by Estes' cri
 thalach : maximum heart rate achieved
 
 target : 0= less chance of heart attack 1= more chance of heart attack
+
+
+
+In preprocessing stage I found information about dataset parameters(chol,thalachh etd) and identified risks for each
