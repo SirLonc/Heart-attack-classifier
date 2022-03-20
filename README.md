@@ -6,6 +6,10 @@ Used Heart Attack Analysis & Prediction Dataset
 
 
 About this dataset
+
+
+
+
 Age : Age of the patient
 
 Sex : Sex of the patient
